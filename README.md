@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vladimír Kelbl.
-- 🌱 I’m currently learning Django.
-- 📫 How to reach me: **kelblvladimir@gmail.com**
+- 🌱 I’m currently learning Django via beginner tutorial by DjangoGirls.
+- 📫 How to reach me: kelblvladimir@gmail.com
 
 <!---
 vladimirkelbl/vladimirkelbl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
