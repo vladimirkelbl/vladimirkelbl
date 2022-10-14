@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vladimír Kelbl.
+- 👋 Hi, I’m Vladimir Kelbl.
 - 🌱 I’m currently learning Django via beginner tutorial by DjangoGirls.
 - 📫 How to reach me: kelblvladimir@gmail.com
 
