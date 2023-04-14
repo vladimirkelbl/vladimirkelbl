@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vladimir Kelbl.
-- 🌱 I’m currently learning Django via beginner tutorial by DjangoGirls.
+- 🌱 I’m currently deepening my skills in Python.
 - 📫 How to reach me: kelblvladimir@gmail.com
 
 <!---
