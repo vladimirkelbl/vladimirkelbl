@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vladimir Kelbl.
-- 🌱 I’m currently working on my bachelor's thesis which deals with navigation of a drone inside a building via WiFi Round Trip Time.
+- 🌱 I’m currently exploring Python and its possibilities for data manipulation, bacause recently a spark of interest for data engineering has ignited inside me.
 - 📫 How to reach me: kelblvladimir@gmail.com or www.linkedin.com/in/vladimirkelbl
 
 <!---
