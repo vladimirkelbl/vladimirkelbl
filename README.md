@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vladimir Kelbl.
-- 🌱 I’m currently exploring Python and its possibilities for data manipulation, bacause recently a spark of interest for data engineering has been ignited inside me.
+- 🌱 I’m currently exploring Python and its possibilities for data manipulation, bacause recently I am interested in data engineering.
 - 📫 How to reach me: kelblvladimir@gmail.com or www.linkedin.com/in/vladimirkelbl
 
 <!---
